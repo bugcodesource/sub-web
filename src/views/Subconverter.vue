@@ -414,8 +414,8 @@ export default {
                 value: "https://raw.githubusercontent.com/bugcodesource/now-subconverter/master/subconverter/config/ACL4SSR_ZiYong_Full_AdblockPlus.ini"
               },
               {
-                label: "CordCloud-NoReject 去广告(与Github同步)",
-                value: "https://raw.githubusercontent.com/bugcodesource/now-subconverter/master/subconverter/config/CordCloud-NoReject.ini"
+                label: "CordCloud-Clash 自用分流 去广告(与Github同步)",
+                value: "https://raw.githubusercontent.com/bugcodesource/now-subconverter/master/subconverter/config/CordCloud-Clash.ini"
               }
             ]
           },
