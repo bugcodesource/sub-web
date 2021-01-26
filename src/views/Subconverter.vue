@@ -412,6 +412,10 @@ export default {
               {
                 label: "ACL4SSR_Online_Full_AdblockPlus 自用全分组 重度用户使用 更多去广告(与Github同步)",
                 value: "https://raw.githubusercontent.com/bugcodesource/now-subconverter/master/subconverter/config/ACL4SSR_ZiYong_Full_AdblockPlus.ini"
+              },
+              {
+                label: "CordCloud-NoReject 去广告(与Github同步)",
+                value: "https://raw.githubusercontent.com/bugcodesource/now-subconverter/master/subconverter/config/CordCloud-NoReject.ini"
               }
             ]
           },
